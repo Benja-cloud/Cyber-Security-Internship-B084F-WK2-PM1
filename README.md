@@ -9,4 +9,6 @@ In this lab, I was able to footprint the live website networkwalks.com using six
 - curl
 - wafw00f
 - dnsrecon
+
+  
 I aced the lab but with a few mistakes here and there especially when typing commands.
